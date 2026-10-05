@@ -119,8 +119,4 @@ How both ingestion scripts work:
 
 Scheduling (Linux/macOS cron, every 5 minutes): `*/5 * * * * cd /path/to/project && .venv/bin/python graph_ingest.py --process >> ingest.log 2>&1`. On Windows, use Task Scheduler with action `python.exe graph_ingest.py --process`, starting in the project folder. For production, run it as an Azure Function or container job and keep secrets in Azure Key Vault.
 
-## Next steps
-- Read PDF attachments (rate confirmations, BOLs, PODs) and merge their text into the email body before extraction.
-- Normalize lanes (city and state) and verify miles with a geocoding or routing service.
-- Push records into your TMS or a shared sheet, and draft replies (rate quotes, check-call updates) for a dispatcher to approve before sending.
-- Cluster emails labeled `other` to discover request types you have not defined yet.
+
