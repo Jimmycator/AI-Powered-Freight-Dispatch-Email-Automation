@@ -1,0 +1,15 @@
+# Secrets and tokens: never commit these
+.env
+credentials.json
+token.json
+
+# Business data (rates, customers, lanes, payment details)
+incoming/
+outputs/
+.cache/
+
+# Local state and environment
+.gmail_state.json
+.graph_state.json
+.venv/
+__pycache__/

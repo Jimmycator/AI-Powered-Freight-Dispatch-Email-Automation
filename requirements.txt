@@ -1,0 +1,10 @@
+openai>=1.50
+pandas>=2.0
+pydantic>=2.0
+msal>=1.28
+requests>=2.31
+python-dotenv>=1.0
+tzdata
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.2
+google-auth-httplib2>=0.2

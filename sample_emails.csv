@@ -1,0 +1,24 @@
+email_id,received,sender,subject,body
+E001,2026-10-05 08:15,mike@summitlogistics.example,HOT LOAD Dallas to Atlanta - dry van,"Need a 53' dry van ASAP. Dallas TX to Atlanta GA, 42,000 lbs of paper goods, about 780 miles.
+Pickup tomorrow 10/6 between 8am and 12pm at ABC Distribution, delivery 10/8 by 5pm.
+Paying $2,850 flat. Load #4471920. Reply with your MC# if you can cover it.
+
+Mike - Summit Logistics
+214-555-0188"
+E002,2026-10-05 11:42,driver.reyes@mailbox.example,Truck down,"Truck 118 broke down on I-40 near Little Rock AR. Waiting on a tow. I am going to miss tomorrow's 8am delivery in Memphis for load 88231. Reefer unit is still running at 34F. Please tell the broker."
+E003,2026-10-05 13:20,dispatch@northstarfreight.example,RE: Rate con LD-55102,"Attached is the rate confirmation for load LD-55102. Please sign and return today.
+Pickup: Fort Worth TX, Mon 10/12 1:00pm appointment. Delivery: Denver CO, Wed 10/14 FCFS 6am-2pm.
+Flatbed, 38,500 lbs steel coils, tarps required. Rate is $3,400 all-in. Detention after 2 hours at $50/hr.
+
+On Mon, Oct 5, 2026 at 12:10 PM Dispatch <dispatch@ourcompany.example> wrote:
+> We can take LD-55102 at $3,400.
+> Please send the rate con."
+E004,2026-10-05 15:05,billing@swiftriver-carriers.example,Detention - load 7719,"We sat at the receiver in Chicago for 4 hours on load 7719 before unloading. Please add $200 detention to the invoice. Signed BOL and gate times attached."
+E005,2026-10-05 16:30,billing@summit-logistics-pay.example,Updated remittance information,"Hello, our accounting department has changed banks. Please send all future payments to the new account:
+Routing: 021000021
+Account: 123456789012
+We need confirmation today or your quick pay will be delayed.
+
+Summit Logistics Accounting"
+E006,2026-10-05 09:50,tracking@acmeshippers.example,Where is load 5530177?,"The receiver is asking for an ETA on load 5530177. Please send an update and the driver's current location. This is the third time we have asked today."
+E007,2026-10-05 17:10,carriers@lonestarbrokers.example,Carrier setup,"Welcome aboard. To finish setting you up in our system, please send your W-9, a certificate of insurance listing us as certificate holder, and a copy of your MC authority letter. End of week is fine."
